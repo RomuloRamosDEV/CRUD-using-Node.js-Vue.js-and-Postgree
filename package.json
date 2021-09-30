@@ -1,0 +1,23 @@
+{
+  "name": "CRUD-using-Node.js-Vue.js-and-Postgree",
+  "version": "1.0.0",
+  "description": "Aplicação CRUD API em Node.js que irá alimentar outro frameworks FrontEnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomuloRamosDEV/CRUD-using-Node.js-Vue.js-and-Postgree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomuloRamosDEV/CRUD-using-Node.js-Vue.js-and-Postgree/issues"
+  },
+  "homepage": "https://github.com/RomuloRamosDEV/CRUD-using-Node.js-Vue.js-and-Postgree#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
